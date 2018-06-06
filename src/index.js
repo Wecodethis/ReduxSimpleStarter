@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDom from 'react-dom';
-'hello jp'
+
 import SearchBar from './components/search_bar';
 
 const API_KEY = 'AIzaSyBzBtAXZ_eZRCF3FXS-rR5XdApmFnqs9w8';
